@@ -1,0 +1,16 @@
+INFO:root:['j', 'a', 's', 'o', 'n']
+INFO:root:Key.space
+INFO:root:['v', 'a', 'n']
+INFO:root:Key.space
+INFO:root:['p', 'e', 'l', 't']
+INFO:root:Key.space
+INFO:root:['i', 's']
+INFO:root:Key.space
+INFO:root:['a']
+INFO:root:Key.space
+INFO:root:['g', 'o', 'o', 'd']
+INFO:root:Key.space
+INFO:root:['g', 'u', 'y']
+INFO:root:Key.space
+INFO:root:['a', 't']
+INFO:root:Key.space
